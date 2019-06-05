@@ -17,8 +17,8 @@ P.P.S. The philosophy of hiring is mostly "hiring the best ones" - I agree to th
 # Data Structures
 * What is a priority queue? 
 * What is a heap? 
-* What is B-tree? 
-* What is a 2-3-tree? 
+* (What is B-tree)[https://ru.wikipedia.org/wiki/B-дерево]? структура данных, дерево поиска. С точки зрения внешнего логического представления, сбалансированное, сильно ветвистое дерево. Часто используется для хранения данных во внешней памяти.
+* (What is a 2-3-tree)[https://ru.wikipedia.org/wiki/2-3-дерево]? структура данных, являющаяся B-деревом степени 1[уточнить], каждый узел (страница) которого имеет либо два потомка и одно поле, либо три потомка и два поля. 
 * What is RB-tree? What is AVL-tree?
 * What is Set?
 * What are HashMap and HashSet? Difference between them
